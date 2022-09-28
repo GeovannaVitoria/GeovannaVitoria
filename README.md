@@ -20,9 +20,3 @@
 </div>
 
 ##
-
-  📝 Me aprofundando em estudos front-end <br>
-  📍 Trabalhando em melhorar um pouquinho todos os dias :) 
-
-
-
